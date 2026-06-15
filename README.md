@@ -5,8 +5,6 @@
 **`Hello World!`**
 ## 👨‍💻 About Me
 
-I am an aspiring Software Engineer currently studying a Bachelor of Software Engineering(AI) at Torrens University Australia. I focus primarily on AI/ML, Data science and build
-
 I am a **Software Engineering student specializing in Artificial Intelligence** at Torrens University Australia, bridging the gap between traditional robust software engineering principles and cutting-edge intelligent systems. 
 
 Driven by a passion for AI/ML, data driven development and scalable infrastructure, my current studies and (current & future) projects focus heavily on the following domains:
