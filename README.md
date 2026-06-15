@@ -13,7 +13,7 @@ Driven by a passion for AI/ML, data driven development and scalable infrastructu
 *   **Data Science & Analytics:** Sourcing, cleaning, and transforming complex datasets utilizing Python analytics pipelines, data mining frameworks, and advanced visualization techniques.
 *   **System Architecture & Engineering:** Designing scalable, fault-tolerant systems using modern software engineering patterns, algorithmic data structures, and Microservices Architecture.
 *   **Human-Centred Systems:** Applying user-centric methodologies and creative design thinking to build software that seamlessly aligns with human interactions and business enterprise goals.
-*   
+   
 
 ## 🎯 Focus areas
 Artificial intelligence & Machine learning
