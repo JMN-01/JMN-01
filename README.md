@@ -28,3 +28,11 @@ Artificial intelligence & Machine learning
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48" style="margin: 4px;" />
 </p>
+
+
+## 📊 Project Analytics & Repository Stats
+
+| Repository Code Metrics | Profile Development Streak |
+| :---: | :---: |
+| ![JMN-01's Stats](https://github-readme-stats.vercel.app/api?username=JMN-01&show_icons=true&theme=radical&hide_border=false) | ![JMN-01's Streak](https://streak-stats.demolab.com/?user=JMN-01&theme=radical&hide_border=false) |
+
