@@ -16,7 +16,7 @@ Driven by a passion for AI/ML, data driven development and scalable infrastructu
    
 
 ## 🎯 Focus areas
-Artificial intelligence & Machine learning
+Artificial intelligence, Machine learning & Data science
 
 ## 🛠️ Languages & Tools
 
