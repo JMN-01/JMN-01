@@ -5,7 +5,7 @@
 **`Hello World!`**
 ## 👨‍💻 About Me
 
-I am a **Software Engineering student specializing in Artificial Intelligence** at Torrens University Australia, bridging the gap between traditional robust software engineering principles and cutting-edge intelligent systems. 
+I am a **Software Engineering student focusing on Artificial Intelligence and Machine Learning** at Torrens University Australia
 
 Driven by a passion for AI/ML, data driven development and scalable infrastructure, my current studies and (current & future) projects focus heavily on the following domains:
 
