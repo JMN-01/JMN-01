@@ -7,7 +7,7 @@
 
 I am a **Software Engineering student focusing on Artificial Intelligence and Machine Learning** at Torrens University Australia
 
-Driven by a passion for AI/ML, data driven development and scalable infrastructure, my current studies and (current & future) projects focus heavily on the following domains:
+Driven by a passion for AI/ML, data driven development and scalable infrastructure, my current studies and projects focus heavily on the following domains:
 
 *   **Artificial Intelligence & Deep Learning:** Progressing from foundational AI concepts and statistical theory to advanced predictive modeling, Classification & Regression, Deep Learning, and Natural Language Processing.
 *   **Data Science & Analytics:** Sourcing, cleaning, and transforming complex datasets utilizing Python analytics pipelines, data mining frameworks, and advanced visualization techniques.
